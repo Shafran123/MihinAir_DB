@@ -79,7 +79,7 @@ Declare @bind_f_name CHAR(50),
         @bind_flight_path VARCHAR(50),
         @bind_aircraft_name VARCHAR(50)
 
-EXEC spBoarding_Pass '60754322v',   @bind_f_name OUT,
+EXEC spBoarding_Pass '60754320v',   @bind_f_name OUT,
                                     @bind_l_name OUT,
                                     @bind_leg_no OUT,@bind_seat_no OUT,
                                     @bind_check_in_time OUT,
