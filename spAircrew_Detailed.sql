@@ -1,3 +1,5 @@
+--Used to get Full Aircrew Details by entering stafff id--
+
 CREATE PROCEDURE spAircrew_Detailed @Staff_ID varchar(50)
 
 AS

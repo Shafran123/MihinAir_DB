@@ -5,6 +5,9 @@ GO
 ---------------------------------
 --Function GetInfo--
 
+--Used to get relavant airline details form ariline code--
+
+
 CREATE Function GetInfo(
     @Airline_code INT  
 )

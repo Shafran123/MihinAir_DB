@@ -1,3 +1,5 @@
+--used to get cousmtomer reservation details--
+
 CREATE PROCEDURE spCoustomer_Resvelation_Details @P_NO varchar(50)
 
 AS

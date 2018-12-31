@@ -1,3 +1,5 @@
+--Stored Procedure to print a boraiding pass of passenger--
+
 Alter Procedure spBoarding_Pass(@P_No Varchar(50),
                                 @F_Name char(50) OUT,
                                 @L_Name char(50) OUT,
